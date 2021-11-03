@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,39 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+
+/* html {
+  margin: 0;
+  padding: 0;
 }
+
+.App-header {
+  border: 1px solid #000;
+  background-color: #282c34;
+  text-align: center;
+}
+*/
+h1 {
+  color: #fff;
+}
+
+.box {
+  margin: 30px auto;
+  width: 60%;
+}
+
+.box h2 {
+  margin: 30px auto;
+  text-align: center;
+}
+
+.form-box {
+  width: 100%;
+}
+
+.btn btn-primary {
+  margin-left: 0;
+}
+
